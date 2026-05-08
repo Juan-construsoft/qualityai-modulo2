@@ -38,7 +38,12 @@ output/
 # ============================================================
 # Material docente (NO va al repo público de estudiantes)
 # ============================================================
-# Guías docentes de las prácticas (los handouts de estudiantes SÍ van)
+# Guías docentes de las prácticas de Clase 1 (las versiones _estudiantes SÍ van)
+docs/practica_ep_clase1.md
+docs/practica_bva_clase1.md
+docs/practica_decision_tables_clase1.md
+
+# Guías docentes de las prácticas V1-V4 (las versiones _estudiantes SÍ van)
 docs/practica_v1_clase2.md
 docs/practica_v2_clase2.md
 docs/practica_v3_clase3.md

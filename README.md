@@ -44,9 +44,9 @@ modulo2_test_architect/
 │       └── katary_test_patterns.json   # KB de 10 patrones de testing Katary
 │
 ├── docs/
-│   ├── practica_ep_clase1.md
-│   ├── practica_bva_clase1.md
-│   ├── practica_decision_tables_clase1.md
+│   ├── practica_ep_clase1_estudiantes.md
+│   ├── practica_bva_clase1_estudiantes.md
+│   ├── practica_decision_tables_clase1_estudiantes.md
 │   ├── practica_v1_clase2_estudiantes.md
 │   ├── practica_v2_clase2_estudiantes.md
 │   ├── practica_v3_clase3_estudiantes.md
@@ -182,9 +182,9 @@ Cada versión hereda completo a la anterior. V3 incluye TODO lo de V1 y V2; V4 o
 
 | Clase | Tema | Archivo |
 |---|---|---|
-| Clase 1 | Equivalence Partitioning | `docs/practica_ep_clase1.md` |
-| Clase 1 | Boundary Value Analysis | `docs/practica_bva_clase1.md` |
-| Clase 1 | Decision Tables | `docs/practica_decision_tables_clase1.md` |
+| Clase 1 | Equivalence Partitioning | `docs/practica_ep_clase1_estudiantes.md` |
+| Clase 1 | Boundary Value Analysis | `docs/practica_bva_clase1_estudiantes.md` |
+| Clase 1 | Decision Tables | `docs/practica_decision_tables_clase1_estudiantes.md` |
 | Clase 2 | Construye + Experimenta + Audita (V1) | `docs/practica_v1_clase2_estudiantes.md` |
 | Clase 2 | Ablation Study del Prompt (V2) | `docs/practica_v2_clase2_estudiantes.md` |
 | Clase 3 | Auditoría humana de la matriz (V3) | `docs/practica_v3_clase3_estudiantes.md` |
