@@ -1,0 +1,67 @@
+# ============================================================
+# Variables de entorno y secretos
+# ============================================================
+.env
+.env.local
+*.key
+*.pem
+
+# ============================================================
+# Entornos virtuales de Python
+# ============================================================
+venv/
+.venv/
+env/
+ENV/
+
+# ============================================================
+# Caches de Python
+# ============================================================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ============================================================
+# Datos generados localmente (se regeneran al ejecutar)
+# ============================================================
+# ChromaDB indexada — se reconstruye al primer run del agente
+knowledge_base_data/
+
+# Contracts B generados durante pruebas — no son artefactos compartidos
+output/
+
+# ============================================================
+# Material docente (NO va al repo público de estudiantes)
+# ============================================================
+# Guías docentes de las prácticas (los handouts de estudiantes SÍ van)
+docs/practica_v1_clase2.md
+docs/practica_v2_clase2.md
+docs/practica_v3_clase3.md
+docs/practica_v4_clase4.md
+
+# Presentaciones (no se distribuyen como código fuente)
+docs/*.pptx
+
+# Plan interno + ADRs (material docente)
+docs/plan_detallado_modulo2.md
+
+# ============================================================
+# IDEs y editores
+# ============================================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ============================================================
+# Notebooks — checkpoints automáticos
+# ============================================================
+.ipynb_checkpoints/
